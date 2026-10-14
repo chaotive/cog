@@ -1,0 +1,10 @@
+export const CELL = 32;
+export const VIEW_W = 960;
+export const VIEW_H = 640;
+export const MAP_W = 80;
+export const MAP_H = 50;
+export const CITY_COUNT = 3;
+export const ENEMY_COUNT = 14;
+export const VILLAGE_COUNT = 8;
+export const STARTING_GOLD = 120;
+export const CARGO_CAPACITY = 30;
