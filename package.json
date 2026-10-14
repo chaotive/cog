@@ -1,0 +1,22 @@
+{
+  "name": "cog",
+  "version": "0.1.0",
+  "description": "COG: Cities of Gold - Cell-based 2D exploration web game",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["game", "phaser", "exploration", "turn-based", "cities-of-gold"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^4.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4"
+  }
+}
